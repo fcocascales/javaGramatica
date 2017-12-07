@@ -8,17 +8,19 @@ o indicar si una palabra es aguda, llana, esdrújula o sobreesdrújula.
 ![Icono](img/genero_numero.png)
 
 
-Ejemplos de uso:
+## Ejemplos de uso
+
   - Gramatica.plural("camión") → "camiones"
   - Gramatica.silabas("paella") → "pa-e-lla"
   - Gramatica.acentuacion("águila") → "esdrújula"
   - Gramatica.genero("verdad") → "femenino"
 
-Enlaces:
+## Enlaces
+
   * [Sitio web](https://proinf.net/permalink/gramatica_numero_genero_y_acentuacion)
   * [Documentación](https://proinf.net/applets/Gramatica/dist/javadoc/net/proinf/gramatica/package-summary.html)
 
-Pantallazos de ejemplo:
+## Pantallazos de ejemplo
 
 ![Primero](img/pantallazo1.png)
 
