@@ -1,0 +1,6 @@
+
+Instalar Java en Ubuntu:
+  sudo apt-get install default-jdk
+
+Ejecutar el programa:
+  java -Xbootclasspath/a:"swing-layout-1.0.jar" -jar Gramatica.jar
